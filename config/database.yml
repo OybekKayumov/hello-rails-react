@@ -45,8 +45,8 @@ development:
   encoding: unicode
   database: hello-rails-react_development
   pool: 5
-  username: postgres
-  password: Instant12.,
+  username: pguser
+  password: password
   host: localhost
 
   # Connect on a TCP socket. Omitted by default since the client uses a
